@@ -1,0 +1,18 @@
+#navbar {
+    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    color: #fff;
+}
+
+#nav-left-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#nav-left-div>img {
+    padding-right: 10px;
+}
